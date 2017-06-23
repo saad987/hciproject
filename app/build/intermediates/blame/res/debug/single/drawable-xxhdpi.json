@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/erase.png",
+        "source": "/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/src/main/res/drawable-xxhdpi/erase.png"
+    },
+    {
+        "merged": "/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/color.png",
+        "source": "/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/src/main/res/drawable-xxhdpi/color.png"
+    },
+    {
+        "merged": "/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/clear_all.png",
+        "source": "/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/src/main/res/drawable-xxhdpi/clear_all.png"
+    },
+    {
+        "merged": "/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/painting_app_icon.png",
+        "source": "/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/src/main/res/drawable-xxhdpi/painting_app_icon.png"
+    },
+    {
+        "merged": "/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/about.png",
+        "source": "/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/src/main/res/drawable-xxhdpi/about.png"
+    },
+    {
+        "merged": "/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/import_image.png",
+        "source": "/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/src/main/res/drawable-xxhdpi/import_image.png"
+    },
+    {
+        "merged": "/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/size.png",
+        "source": "/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/src/main/res/drawable-xxhdpi/size.png"
+    },
+    {
+        "merged": "/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/build/intermediates/res/merged/debug/drawable-xxhdpi/save.png",
+        "source": "/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/src/main/res/drawable-xxhdpi/save.png"
+    }
+]

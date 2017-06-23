@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="112dp"
+        android:layout_height="wrap_content"
+        android:text="Circle" />
+    <Button
+        android:id="@+id/btn2"
+        android:layout_width="112dp"
+        android:layout_height="wrap_content"
+        android:text="Sequare" />
+
+    <Button
+        android:id="@+id/btn3"
+        android:layout_width="112dp"
+        android:layout_height="wrap_content"
+        android:text="freeshape" />
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pick a shape to draw!"
+        android:layout_weight="0.19" />
+</LinearLayout>

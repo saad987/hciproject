@@ -1,0 +1,4 @@
+#Fri Jun 23 13:46:54 EDT 2017
+base.0=/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

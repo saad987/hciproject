@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e2495aa2b370964eabe9b7eee45d62a82936255">
+        <dex dex="/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0319361c1446dea85746b1a33f910de68c5b7c89/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0942b3794bc72c4af70bd201170f2e8076f796ed/classes.dex" />
+    </item>
+
+</items>

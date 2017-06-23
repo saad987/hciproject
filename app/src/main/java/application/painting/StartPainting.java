@@ -348,8 +348,12 @@ public class StartPainting extends GraphicsActivity implements
 				new ColorPickerDialog(this, this, mPaint.getColor()).show();
 				return true;
 			case R.id.go_shapes:
-				Intent go_view_shapes = new Intent(this, Shapes.class);
-				startActivity(go_view_shapes);
+//				Intent go_view_shapes = new Intent(this, Shapes.class);
+//				startActivity(go_view_shapes);
+				return true;
+			case R.id.circle_sub_menu:
+				Intent circle_shape = new Intent(this,Shapes.class);
+				startActivity(circle_shape);
 				return true;
 			case R.id.erase_menu: {
 				LayoutInflater inflater_e = ( LayoutInflater ) getSystemService( Context.LAYOUT_INFLATER_SERVICE );

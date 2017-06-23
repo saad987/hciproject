@@ -27,6 +27,33 @@
     <item
         android:id="@+id/go_shapes"
         android:title="Pick shapes">
+        <menu>
+            <item
+                android:id="@+id/circle_sub_menu"
+                android:showAsAction="ifRoom"
+                android:title="Circle">
+            </item>
+            <item
+                android:id="@+id/ellipse_sub_menu"
+                android:showAsAction="ifRoom"
+                android:title="Ellipse">
+            </item>
+            <item
+                android:id="@+id/square_sub_menu"
+                android:showAsAction="ifRoom"
+                android:title="Square">
+            </item>
+            <item
+                android:id="@+id/rectangle_sub_menu"
+                android:showAsAction="ifRoom"
+                android:title="Rectangle">
+            </item>
+            <item
+                android:id="@+id/polygon_sub_menu"
+                android:showAsAction="ifRoom"
+                android:title="Polygon">
+            </item>
+        </menu>
     </item>
     <item
         android:id="@+id/save_menu"

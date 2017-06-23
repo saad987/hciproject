@@ -351,7 +351,7 @@ public class StartPainting extends GraphicsActivity implements
 //				Intent go_view_shapes = new Intent(this, Shapes.class);
 //				startActivity(go_view_shapes);
 				return true;
-			case R.id.circle_sub_menu:
+			case R.id.subMenuCircle:
 				Intent circle_shape = new Intent(this,Shapes.class);
 				startActivity(circle_shape);
 				return true;
@@ -370,7 +370,7 @@ public class StartPainting extends GraphicsActivity implements
 						.findViewById( R.id.sizeValueTextView );
 				txt_e.setText( String.format(
 						getResources( ).getString( R.string.your_selected_size_is ),
-						getStrokeSize( ) + 1 ) );
+						getStrokeSize( )+ 1 ) );
 				sb_e.setOnSeekBarChangeListener( new SeekBar.OnSeekBarChangeListener( ) {
 					public void onProgressChanged( SeekBar seekBar,
 												   final int progress, boolean fromUser ) {

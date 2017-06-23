@@ -1,7 +1,0 @@
-#Fri Jun 23 13:46:54 EDT 2017
-base.0=/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0942b3794bc72c4af70bd201170f2e8076f796ed
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0319361c1446dea85746b1a33f910de68c5b7c89/classes.dex
-base.1=/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0319361c1446dea85746b1a33f910de68c5b7c89
-file.0=/Users/Ebin-Turki/Desktop/Projects/AndroidStudio/PaintApp/PaintingApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0942b3794bc72c4af70bd201170f2e8076f796ed/classes.dex
